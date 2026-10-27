@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 
 def convert_length(value, from_unit, to_unit):
     units = {
@@ -20,4 +19,3 @@ def convert_length(value, from_unit, to_unit):
     result = value_in_meters / units[to_unit]
 
     return result
->>>>>>> e445a81b1561aef462018edcfe3e6fb8caf00769

@@ -8,4 +8,4 @@
 | Kawtar | `Nandee44` | Temperature conversion (Celsius to Fahrenheit) |
 | Hibateallah | `hnaboulssi` | Distance conversion (Kilometers to Miles) |
 
-Project status: Development in progress Hibateallah test 
+Project status: Development in progress Kawtar

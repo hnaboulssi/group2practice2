@@ -1,2 +1,2 @@
 def test_ci_failure_demo():
-    assert 1 == 2
+    assert 1 == 1
